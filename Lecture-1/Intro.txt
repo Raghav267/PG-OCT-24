@@ -1,0 +1,6 @@
+MERN= MONGODB, EXPRESS , REACT, NODE
+
+Pre Requirements
+1. Install vs code
+2. Install git
+3. Make an account on Github.
