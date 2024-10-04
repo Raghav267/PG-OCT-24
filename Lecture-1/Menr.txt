@@ -1,0 +1,16 @@
+1.HTML
+2.CSS
+    selectors, box model, color theory,animations, transitions, grids,flex
+
+3. CSS FW
+4. JS
+    data types, closures , lexiacal environemnt, functions , hof, call backs, promises
+
+5. REACT it a  js librarry
+    props , hooks, components, routing
+
+6. NODE
+
+7.EXPRESS its a node FW.
+
+8. MONGODB
